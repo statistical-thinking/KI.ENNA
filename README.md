@@ -14,4 +14,5 @@ Die Parameter des Neuronalen Netzes wurden daraufhin als TXT-Datei extrahiert.
 Im Ordner "micropython" befindet sich der Code zur Initialisierung des Microcontrollers.
 Dieser wird via Thonny auf den Microcontroller kopiert und dieser anschließend neu gestartet.
 Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwendet werden.
+Als Beispieldatensätze stehen der IRIS Datensatz und der DIABETES Datensatz zur Verfügung.
 Entsprechend sind die Parameter im Code zur Initialisierung des Microcontrollers und des Datensatzes anzupassen.
