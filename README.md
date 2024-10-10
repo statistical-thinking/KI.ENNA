@@ -19,4 +19,4 @@ Aufgrund des begrenzten Ressourcen sind es beim DIABETES Datensatz lediglich 'Re
 Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwendet werden.
 Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend anzupassen.
 
-![alt text](https://github.com/[statistical-thinking]/[KI.ENNA]/blob/[main]/ki-enna.jpg?raw=true)
+![alt text](https://github.com/statistical-thinking/KI.ENNA/blob/main/KI-ENNA.jpg?raw=true)
