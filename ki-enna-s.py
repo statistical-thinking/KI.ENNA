@@ -56,11 +56,6 @@ def softmax(x):
     return s
 
 # Basics for matrices
-def dot(A, B):
-    if len(A[0]) != len(B): 
-        raise ArithmeticError('A columns must equal B rows.')
-    return [[sum(a * b for a, b in zip(row, B))] for row in A]
-
 def zeros(rows, cols):
     M = []
     while len(M) < rows:
@@ -69,19 +64,16 @@ def zeros(rows, cols):
             M[-1].append(0.0)
     return M
 
+# Transpose metrices
 def transpose(M):
     if not isinstance(M[0], list):
         M = [M]
-
     rows = len(M)
     cols = len(M[0])
-
     MT = zeros(cols, rows)
-
     for i in range(rows):
         for j in range(cols):
             MT[j][i] = M[i][j]
-
     return MT
 
 # Single neuron
