@@ -5,7 +5,7 @@ KI-ENNA - (E)in (N)euronales (N)etz zum (A)usprobieren
 Prof. Dr. Dennis Klinkhammer
 
 # Voraussetzungen
-TensorFlow in Python (Anaconda Cloud); MicroPython (Thony)
+TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
 # Anleitung
 Im Ordner "python" befindet sich jeweils ein Datensatz im CSV-Format sowie Jupyter Notebooks für zwei Neuronale Netze zur Klassifikation.
