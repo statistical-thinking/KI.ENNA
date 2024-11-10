@@ -7,7 +7,7 @@ Prof. Dr. Dennis Klinkhammer
 # Voraussetzungen
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
-# Anleitung
+# Materialien und Lizenz
 Im Ordner "python" befindet sich jeweils ein Datensatz im CSV-Format sowie Jupyter Notebooks für zwei Neuronale Netze zur Klassifikation.
 Die Datensätze wurden jeweils als Grundlage für das Training der Neuronalen Netze mit TensorFlow in Python verwendet.
 Die Parameter der Neuronalen Netze wurden daraufhin als TXT-Datei extrahiert.
