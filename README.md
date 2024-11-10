@@ -18,7 +18,7 @@ Als Beispieldatensätze stehen der IRIS Datensatz und der DIABETES Datensatz zur
 Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwendet werden.
 Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend anzupassen.
 KI-ENNA-B(asic) funktioniert direkt in Thonny und benötigt weder Display noch RGB-Matrix.
-KI-ENNA in der aktuellen Version 2.0 steht unter der CC BY-SA Lizenz zur Verfügung.
+In der aktuellen Version 2.0 steht KI-ENNA unter der CC BY-SA Lizenz zur Verfügung.
 
 # KI-ENNA mit Zubehör
 ![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/KI-ENNA.jpg?raw=true)
