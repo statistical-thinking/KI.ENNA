@@ -1,5 +1,5 @@
 # KI-ENNA
-KI-ENNA - (E)in (N)euronales (N)etz zum (A)usprobieren
+KI-ENNA: (E)in (N)euronales (N)etz zum (A)usprobieren
 
 # Autoren
 Prof. Dr. habil. Dennis Klinkhammer
