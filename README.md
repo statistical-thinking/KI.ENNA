@@ -2,7 +2,7 @@
 KI-ENNA - (E)in (N)euronales (N)etz zum (A)usprobieren
 
 # Autoren
-Prof. Dr. Dennis Klinkhammer
+Prof. Dr. habil. Dennis Klinkhammer
 
 # Voraussetzungen
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
