@@ -1,5 +1,6 @@
 # KI-ENNA
 KI-ENNA: (E)in (N)euronales (N)etz zum (A)usprobieren
+AI-ANNE: (A) (N)eural (N)et for (E)xploration
 
 # Autoren
 Prof. Dr. habil. Dennis Klinkhammer
