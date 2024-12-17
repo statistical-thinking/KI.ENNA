@@ -21,5 +21,5 @@ Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend an
 KI-ENNA-B(asic) funktioniert direkt in Thonny und benötigt weder Display noch RGB-Matrix.
 In der aktuellen Version 2.0 steht KI-ENNA unter der German Free Software License zur Verfügung.
 
-# KI-ENNA mit Zubehör
+# KI-ENNA auf einem Raspberry Pi Pico 2
 ![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/KI-ENNA.png?raw=true)
