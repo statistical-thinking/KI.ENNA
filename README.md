@@ -1,5 +1,8 @@
 ![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/KI-ENNA.png?raw=true)
 
+# KI-ENNA
+(E)in (N)euronales (N)etz zum (A)usprobieren
+
 # Autoren
 Prof. Dr. habil. Dennis Klinkhammer
 
