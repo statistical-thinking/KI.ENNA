@@ -22,4 +22,4 @@ KI-ENNA-B(asic) funktioniert direkt in Thonny und benötigt weder Display noch R
 In der aktuellen Version 2.0 steht KI-ENNA unter der German Free Software License zur Verfügung.
 
 # KI-ENNA mit Zubehör
-![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/KI-ENNA.jpg?raw=true)
+![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/KI-ENNA.png?raw=true)
