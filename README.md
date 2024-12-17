@@ -1,4 +1,6 @@
-# KI-ENNA
+![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/KI-ENNA.png?raw=true)
+
+# KI-ENNA (2.0)
 KI-ENNA: (E)in (N)euronales (N)etz zum (A)usprobieren
 <br>AI-ANNE: (A) (N)eural (N)et for (E)xploration
 
@@ -20,6 +22,3 @@ Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwe
 Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend anzupassen.
 KI-ENNA-B(asic) funktioniert direkt in Thonny und benötigt weder Display noch RGB-Matrix.
 In der aktuellen Version 2.0 steht KI-ENNA unter der German Free Software License zur Verfügung.
-
-# KI-ENNA auf einem Raspberry Pi Pico 2
-![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/KI-ENNA.png?raw=true)
