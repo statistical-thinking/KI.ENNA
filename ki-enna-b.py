@@ -19,7 +19,7 @@ def relu(x):
 def leaky_relu(x, alpha=0.01):
     p = []
     for i in range(len(x)):
-        if x[i] > 0:
+        if x[i] >= 0:
             p.append(x[i])
         else:
             p.append(alpha * x[i])
