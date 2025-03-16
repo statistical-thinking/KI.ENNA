@@ -4,7 +4,7 @@
 (A) (N)eural (N)et for (E)xploration
 
 # Author
-Prof. Dr habil. Dennis Klinkhammer
+Prof. Dr. habil. Dennis Klinkhammer
 
 # Requirements
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
