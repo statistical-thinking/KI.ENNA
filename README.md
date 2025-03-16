@@ -1,3 +1,5 @@
+![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/AI-ANNE.png?raw=true)
+
 # AI-ANNE
 (A) (N)eural (N)et for (E)xploration
 
