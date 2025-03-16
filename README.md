@@ -24,10 +24,6 @@ AI-ANNE-B(asic) works directly in Thonny and does not require a display or RGB m
 # License
 The current version 2.0 of AI-ANNE is available under the German Free Software License.
 
-# Application Example
-
-![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/images/APPLICATION.png?raw=true)
-
 ------------------------------------------------------------------------------------------
 
 ![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/images/KI-ENNA.png?raw=true)
@@ -56,6 +52,7 @@ KI-ENNA-B(asic) funktioniert direkt in Thonny und benötigt weder Display noch R
 # Lizenz
 In der aktuellen Version 2.0 steht KI-ENNA unter der German Free Software License zur Verfügung.
 
-# Anwendungsbeispiel
+------------------------------------------------------------------------------------------
 
+# Application Example / Anwendungsbeispiel
 ![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/images/APPLICATION.png?raw=true)
