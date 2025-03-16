@@ -54,5 +54,5 @@ In der aktuellen Version 2.0 steht KI-ENNA unter der German Free Software Licens
 
 ------------------------------------------------------------------------------------------
 
-# Application Example / Anwendungsbeispiel
+### Application Example / Anwendungsbeispiel:
 ![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/images/APPLICATION.png?raw=true)
