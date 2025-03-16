@@ -21,7 +21,7 @@ If required, other classification data can be used for training in Python.
 For other data sets, the parameters of the neural networks must be adjusted accordingly.
 AI-ANNE-B(asic) works directly in Thonny and does not require a display or RGB matrix.
 
-# Licence
+# License
 The current version 2.0 of AI-ANNE is available under the German Free Software License.
 
 ------------------------------------------------------------------------------------------
