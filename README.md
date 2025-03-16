@@ -1,4 +1,4 @@
-![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/AI-ANNE.png?raw=true)
+![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/images/AI-ANNE.png?raw=true)
 
 # AI-ANNE
 (A) (N)eural (N)et for (E)xploration
@@ -26,7 +26,7 @@ The current version 2.0 of AI-ANNE is available under the German Free Software L
 
 ------------------------------------------------------------------------------------------
 
-![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/KI-ENNA.png?raw=true)
+![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/images/KI-ENNA.png?raw=true)
 
 # KI-ENNA
 (E)in (N)euronales (N)etz zum (A)usprobieren
@@ -51,3 +51,6 @@ KI-ENNA-B(asic) funktioniert direkt in Thonny und benötigt weder Display noch R
 
 # Lizenz
 In der aktuellen Version 2.0 steht KI-ENNA unter der German Free Software License zur Verfügung.
+
+------------------------------------------------------------------------------------------
+![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/images/APPLICATION.png?raw=true)
