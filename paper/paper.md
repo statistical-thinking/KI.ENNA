@@ -10,7 +10,8 @@ authors:
     orcid: 0000-0003-1011-5517
     affiliation: 1
 affiliations:
- - name: Statistical Thinking, Bonn, Germany
+ - name: Statistical Thinking, Germany
+   index: 1
 date: 16 March 2025
 bibliography: paper.bib
 ---
