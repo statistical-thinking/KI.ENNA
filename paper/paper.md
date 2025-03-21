@@ -10,7 +10,7 @@ authors:
     orcid: 0000-0003-1011-5517
     affiliation: 1
 affiliations:
- - name: Statistical Thinking, Germany
+ - name: Statistical Thinking (Germany), www.statistical-thinking.de, info (at) statistical-thinking.de
    index: 1
 date: 16 March 2025
 bibliography: paper.bib
