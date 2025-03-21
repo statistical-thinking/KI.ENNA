@@ -22,7 +22,7 @@ For other data sets, the parameters of the neural networks must be adjusted acco
 AI-ANNE-B(asic) works directly in Thonny and does not require a display or RGB matrix.
 
 # License
-The current version 2.0 of AI-ANNE is available under the German Free Software License.
+The current version 2.0 of AI-ANNE is available under MIT License.
 
 ------------------------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend an
 KI-ENNA-B(asic) funktioniert direkt in Thonny und benötigt weder Display noch RGB-Matrix.
 
 # Lizenz
-In der aktuellen Version 2.0 steht KI-ENNA unter der German Free Software License zur Verfügung.
+In der aktuellen Version 2.0 steht KI-ENNA unter der MIT Lizens zur Verfügung.
 
 ------------------------------------------------------------------------------------------
 
