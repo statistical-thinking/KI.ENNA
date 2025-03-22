@@ -9,6 +9,10 @@ Prof. Dr. habil. Dennis Klinkhammer
 # Requirements
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
+# Selected Research Applications
+AI-ANNE is currently being used in the field of computer vision as a supplement to electron microscopes for medical diagnostics.
+An ongoing research project is testing the use of AI-ENNA to detect hazards in the rescue lane of emergency vehicles.
+
 # Materials and Short Tutorial
 The “python” folder contains a data set in CSV format as well as Jupyter notebooks for two neural networks for classification.
 The data sets were each used as the basis for training the neural networks with TensorFlow in Python.
@@ -36,6 +40,10 @@ Prof. Dr. habil. Dennis Klinkhammer
 
 # Voraussetzungen
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
+
+# Ausgewählte Forschungsanwendungen
+Aktuell kommt KI-ENNA im Bereich Computer Vision als Ergänzung von Elektronenmikoskopen für die medizinische Diagnostik zum Einsatz.
+In einem laufenden Forschungsvorhaben wird der Einsatz von KI-ENNA zur Detektion von Gefahren auf der Rettungsgasse von Rettungsfahrzeugen erprobt. 
 
 # Materialien und Kurzanleitung
 Im Ordner "python" befindet sich jeweils ein Datensatz im CSV-Format sowie Jupyter Notebooks für zwei Neuronale Netze zur Klassifikation.
