@@ -1,4 +1,4 @@
-![KI-ENNA](images/AI-ANNE.png)
+![KI-ENNA](images/AI-ANNE-2.png)
 
 # AI-ANNE
 (A) (N)eural (N)et for (E)xploration
@@ -30,7 +30,7 @@ The current version 2.0 of AI-ANNE is available under MIT License.
 
 ------------------------------------------------------------------------------------------
 
-![KI-ENNA](images/KI-ENNA.png)
+![KI-ENNA](images/KI-ENNA-2.png)
 
 # KI-ENNA
 (E)in (N)euronales (N)etz zum (A)usprobieren
