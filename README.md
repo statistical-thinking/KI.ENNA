@@ -30,7 +30,7 @@ The current version 2.0 of AI-ANNE is available under MIT License.
 
 ------------------------------------------------------------------------------------------
 
-![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/images/KI-ENNA.png?raw=true)
+![KI-ENNA](images/KI-ENNA.png)
 
 # KI-ENNA
 (E)in (N)euronales (N)etz zum (A)usprobieren
