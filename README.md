@@ -19,7 +19,7 @@ The data sets were each used as the basis for training the neural networks with 
 The parameters of the neural networks were then extracted as a TXT file.
 The “micropython” folder contains the code for initializing the microcontroller.
 This is copied to the microcontroller via Thonny and the microcontroller is then restarted.
-The IRIS data set and the DIABETES data set are available as sample data sets.
+The IRIS data set and the DIABETES data set are available as example data sets.
 'ReLU', 'Leaky ReLU', 'Sigmoid', 'Softmax' and 'Tanh' are available as activation functions.
 If required, other classification data can be used for training in Python.
 For other data sets, the parameters of the neural networks must be adjusted accordingly.
