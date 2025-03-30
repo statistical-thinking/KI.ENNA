@@ -63,4 +63,4 @@ In der aktuellen Version 2.0 steht KI-ENNA unter der MIT Lizens zur Verfügung.
 ------------------------------------------------------------------------------------------
 
 ### Application Example / Anwendungsbeispiel:
-![KI-ENNA](https://github.com/statistical-thinking/KI.ENNA/blob/main/images/APPLICATION.png?raw=true)
+![KI-ENNA](images/APPLICATION.png)
