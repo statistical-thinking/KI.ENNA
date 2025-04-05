@@ -25,8 +25,10 @@ If required, other classification data can be used for training in Python.
 For other data sets, the parameters of the neural networks must be adjusted accordingly.
 AI-ANNE-B(asic) works directly in Thonny and does not require a display or RGB matrix.
 
-# License
+# License & Acknowledgment
 The current version 2.0 of AI-ANNE is available under MIT License.
+Version 1.0 from 2021 was available under the German Free Software License.
+Special thanks @tonygod2 from instructables.com for his tutorials on getting the display up and running.
 
 ------------------------------------------------------------------------------------------
 
@@ -57,8 +59,10 @@ Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwe
 Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend anzupassen.
 KI-ENNA-B(asic) funktioniert direkt in Thonny und benötigt weder Display noch RGB-Matrix.
 
-# Lizenz
+# Lizenz & Danksagung
 In der aktuellen Version 2.0 steht KI-ENNA unter der MIT Lizens zur Verfügung.
+Version 1.0 von 2021 war noch unter der German Free Software License verfgügbar.
+Besonderer Dank gilt @tonygod2 von instructables.com für seine hilfreichen Display-Tutorials.
 
 ------------------------------------------------------------------------------------------
 
