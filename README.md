@@ -81,4 +81,4 @@ Besonderer Dank gilt **@tonygod2** von instructables.com für seine hilfreichen 
 ------------------------------------------------------------------------------------------
 
 ### Application Example / Anwendungsbeispiel:
-![AI-ANNE-DEMO](https://www.statistical-thinking.de/documents/ai-anne-demo.gif)
+![APPLICATION](images/APPLICATION.PNG)
