@@ -25,6 +25,13 @@ If required, other classification data can be used for training in Python.
 For other data sets, the parameters of the neural networks must be adjusted accordingly.
 AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environment, even without display, RGB matrix or dependencies.
 
+# How to Use and Support AI-ANNE
+AI-ANNE primarily **enables hardware-related programming with insights into the functioning of neural networks** for pupils and students.
+For this purpose, the architecture of neural networks and underlying functions (matrix multiplication, etc.) including the transfer of weights and biases are provided in MicroPython.
+Teachers can use the examples provided or develop their own examples and make them available here voluntarily.
+This only requires a Jupyter notebook with the pre-trained neural network in Python and its counterpart in MicroPython.
+Improvements to the AI-ANNE code are also very welcome. Just get in touch with me here on GitHub :-)
+
 # License & Acknowledgment
 The current version 2.0 of AI-ANNE is available under **MIT License**.
 Version 1.0 from 2021 was available under the German Free Software License.
@@ -58,6 +65,13 @@ Als Beispieldatensätze stehen der IRIS Datensatz und der DIABETES Datensatz zur
 Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwendet werden.
 Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend anzupassen.
 KI-ENNA-B(asic) (*ki-enna-b.py*) funktioniert direkt in Thonny und jeder Python Umgebung, ganz ohne Display, RGB-Matrix oder Abhängigkeiten.
+
+# Wie Sie KI-ENNA nutzen und unterstützen können:
+KI-ENNA **ermöglicht vornehmlich das hardwarenahe Programmieren mit Einblicken in die Funktionsweise von Neuronalen Netzen** für Schülerinnen und Schüler sowie Studierende.
+Hierfür wird die Architektur Neuronaler Netze sowie zugrundeliegende Funktionen (Matrixmultiplkation, etc.) einschließlich der Transfer von Weights und Biases in MicroPython vorgegeben.
+Lehrerinnen und Lehrer können auf die vorgegebenen Beispiele zurückgreifen und eigene Beispiele entwickeln und freiwillig hier zur Verfügung stellen.
+Dies erfordert lediglich ein Jupyter Notebook mit dem vortrainierten Neuronalen Netz in Python sowie dessen Abbild in MicroPython.
+Auch Verbesserungen am Code von KI-ENNA sind herzlich willkommen. Melden Sie sich einfach hier auf GitHub bei mir :-)
 
 # Lizenz & Danksagung
 In der aktuellen Version 2.0 steht KI-ENNA unter der **MIT Lizens** zur Verfügung.
