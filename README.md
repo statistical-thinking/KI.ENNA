@@ -66,7 +66,7 @@ Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwe
 Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend anzupassen.
 KI-ENNA-B(asic) (*ki-enna-b.py*) funktioniert direkt in Thonny und jeder Python Umgebung, ganz ohne Display, RGB-Matrix oder Abhängigkeiten.
 
-# Wie Sie KI-ENNA nutzen und unterstützen können:
+# Wie Sie KI-ENNA nutzen und unterstützen können
 KI-ENNA **ermöglicht vornehmlich das hardwarenahe Programmieren mit Einblicken in die Funktionsweise von Neuronalen Netzen** für Schülerinnen und Schüler sowie Studierende.
 Hierfür wird die Architektur Neuronaler Netze sowie zugrundeliegende Funktionen (Matrixmultiplkation, etc.) einschließlich der Transfer von Weights und Biases in MicroPython vorgegeben.
 Lehrerinnen und Lehrer können auf die vorgegebenen Beispiele zurückgreifen und eigene Beispiele entwickeln und freiwillig hier zur Verfügung stellen.
