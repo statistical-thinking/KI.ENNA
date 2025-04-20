@@ -81,4 +81,4 @@ Besonderer Dank gilt **@tonygod2** von instructables.com für seine hilfreichen 
 ------------------------------------------------------------------------------------------
 
 ### Application Example / Anwendungsbeispiel:
-![KI-ENNA](images/APPLICATION.PNG)
+![KI-ENNA](images/APPLICATION.png)
