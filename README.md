@@ -57,7 +57,7 @@ Als Beispieldatensätze stehen der IRIS Datensatz und der DIABETES Datensatz zur
 'ReLU', 'Leaky ReLU', 'Sigmoid', 'Softmax' und 'Tanh' stehen als Aktivierungsfunktionen zur Verfügung.
 Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwendet werden.
 Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend anzupassen.
-KI-ENNA-B(asic) (*ai-anne-b.py*) funktioniert direkt in Thonny und jeder Python Umgebung, ganz ohne Display, RGB-Matrix oder Abhängigkeiten.
+KI-ENNA-B(asic) (*ki-enna-b.py*) funktioniert direkt in Thonny und jeder Python Umgebung, ganz ohne Display, RGB-Matrix oder Abhängigkeiten.
 
 # Lizenz & Danksagung
 In der aktuellen Version 2.0 steht KI-ENNA unter der **MIT Lizens** zur Verfügung.
