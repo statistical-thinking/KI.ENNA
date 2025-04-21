@@ -192,3 +192,23 @@ def classification_report(ytrue, ypred):
 ypred_class = [1 if i > 0.5 else 0 for i in ypred[0]]
 print(ypred_class)
 print(classification_report(ytrue,ypred_class))
+
+# Functionality Test
+def test_ai_anne():
+    try:
+        yout1 = dense(2, transpose(Xtest), w1, b1, 'sigmoid')
+        ypred = dense(1, yout3, w4, b4, 'sigmoid')
+
+        ypred_class = [1 if i > 0.5 else 0 for i in ypred[0]]
+
+        print("Wahre Klassen:    ", ytrue)
+        print("Vorhergesagt:     ", ypred_class)
+        classification_report(ytrue, ypred_class)
+
+        print("\n Test passed! Accuracy and Confusion Matrix can be computed.")
+
+    except Exception as e:
+        print("\n Test not passed! Check Code!")
+        print("Error Message:", str(e))
+
+test_ai_anne()
