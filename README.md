@@ -33,7 +33,7 @@ This only requires a Jupyter notebook with the pre-trained neural network in Pyt
 Improvements to the AI-ANNE code are also very welcome. Just get in touch with me here on GitHub :-)
 
 # Aplication Example
-This is an example of how AI-ANNE can be used as an interactive learning tool in the classroom:
+This is an example of how AI-ANNE can be used as an interactive learning tool in the classroom:<br>
 ![KI-ENNA](images/AI-ANNE-DEMO.gif)
 
 # License & Acknowledgment
