@@ -81,4 +81,4 @@ Besonderer Dank gilt **@tonygod2** von instructables.com für seine hilfreichen 
 ------------------------------------------------------------------------------------------
 
 ### Application Example / Anwendungsbeispiel
-![Avatar](images/AI-ANNE-DEMO.gif)
+![avatar](images/AI-ANNE-DEMO.gif)
