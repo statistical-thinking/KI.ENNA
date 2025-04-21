@@ -33,6 +33,7 @@ This only requires a Jupyter notebook with the pre-trained neural network in Pyt
 Improvements to the AI-ANNE code are also very welcome. Just get in touch with me here on GitHub :-)
 
 # Aplication Example
+This is an example of how AI-ANNE can be used as an interactive learning tool in the classroom:
 ![KI-ENNA](images/AI-ANNE-DEMO.gif)
 
 # License & Acknowledgment
@@ -76,12 +77,13 @@ Lehrerinnen und Lehrer können auf die vorgegebenen Beispiele zurückgreifen und
 Dies erfordert lediglich ein Jupyter Notebook mit dem vortrainierten Neuronalen Netz in Python sowie dessen Abbild in MicroPython.
 Auch Verbesserungen am Code von KI-ENNA sind herzlich willkommen. Melden Sie sich einfach hier auf GitHub bei mir :-)
 
+# Anwendungsbeispiel
+Dies ist ein Beispiel, wie KI-ENNA als interaktives Lerntool im Klassenraum verwendet werden kann:
+![KI-ENNA](images/AI-ANNE-DEMO.gif)
+
 # Lizenz & Danksagung
 In der aktuellen Version 2.0 steht KI-ENNA unter der **MIT Lizens** zur Verfügung.
 Version 1.0 von 2021 war noch unter der German Free Software License verfgügbar.
 Besonderer Dank gilt **@tonygod2** von instructables.com für seine hilfreichen Display-Tutorials.
 
 ------------------------------------------------------------------------------------------
-
-### Application Example / Anwendungsbeispiel
-![KI-ENNA](images/AI-ANNE-DEMO.gif)
