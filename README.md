@@ -1,4 +1,4 @@
-!(images/AI-ANNE-2.png)
+![KI-ENNA](images/AI-ANNE-2.png)
 
 # AI-ANNE
 (A) (N)eural (N)et for (E)xploration
@@ -31,6 +31,9 @@ For this purpose, the architecture of neural networks and underlying functions (
 Teachers can use the examples provided or develop their own examples and make them available here voluntarily.
 This only requires a Jupyter notebook with the pre-trained neural network in Python and its counterpart in MicroPython.
 Improvements to the AI-ANNE code are also very welcome. Just get in touch with me here on GitHub :-)
+
+# Aplication Example
+![KI-ENNA](images/AI-ANNE-DEMO.gif)
 
 # License & Acknowledgment
 The current version 2.0 of AI-ANNE is available under **MIT License**.
@@ -81,4 +84,4 @@ Besonderer Dank gilt **@tonygod2** von instructables.com für seine hilfreichen 
 ------------------------------------------------------------------------------------------
 
 ### Application Example / Anwendungsbeispiel
-![avatar](images/AI-ANNE-DEMO.gif)
+![KI-ENNA](images/AI-ANNE-DEMO.gif)
