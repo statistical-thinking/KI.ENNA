@@ -78,7 +78,7 @@ Dies erfordert lediglich ein Jupyter Notebook mit dem vortrainierten Neuronalen 
 Auch Verbesserungen am Code von KI-ENNA sind herzlich willkommen. Melden Sie sich einfach hier auf GitHub bei mir :-)
 
 # Anwendungsbeispiel
-Dies ist ein Beispiel, wie KI-ENNA als interaktives Lerntool im Klassenraum verwendet werden kann:
+Dies ist ein Beispiel, wie KI-ENNA als interaktives Lerntool im Klassenraum verwendet werden kann:<p>
 ![KI-ENNA](images/AI-ANNE-DEMO.gif)
 
 # Lizenz & Danksagung
