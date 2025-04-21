@@ -1,4 +1,4 @@
-![KI-ENNA](images/AI-ANNE-2.png)
+!(images/AI-ANNE-2.png)
 
 # AI-ANNE
 (A) (N)eural (N)et for (E)xploration
