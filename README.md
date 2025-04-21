@@ -81,5 +81,4 @@ Besonderer Dank gilt **@tonygod2** von instructables.com für seine hilfreichen 
 ------------------------------------------------------------------------------------------
 
 ### Application Example / Anwendungsbeispiel:
-<img src= "images/AI-ANNE-DEMO.gif" alt="AI-ANNE-DEMI" style="border: 5px solid black;">
-
+<kbd><img src= "images/AI-ANNE-DEMO.gif" alt="AI-ANNE-DEMI"><kbd>
