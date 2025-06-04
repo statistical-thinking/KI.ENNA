@@ -23,7 +23,7 @@ The IRIS data set and the DIABETES data set are available as example data sets.
 'ReLU', 'Leaky ReLU', 'Sigmoid', 'Softmax' and 'Tanh' are available as activation functions.
 If required, other classification data can be used for training in Python.
 For other data sets, the parameters of the neural networks must be adjusted accordingly.
-AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environment, even without display, RGB matrix or dependencies.
+AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environment, even without display, RGB matrix or dependencies and demonstrates pretrained neural networks as well as forward and backward propagation on a microcontroller.
 
 # How to Use and Support AI-ANNE
 AI-ANNE primarily **enables hardware-related programming with insights into the functioning of neural networks** for pupils and students.
@@ -68,7 +68,7 @@ Als Beispieldatensätze stehen der IRIS Datensatz und der DIABETES Datensatz zur
 'ReLU', 'Leaky ReLU', 'Sigmoid', 'Softmax' und 'Tanh' stehen als Aktivierungsfunktionen zur Verfügung.
 Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwendet werden.
 Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend anzupassen.
-KI-ENNA-B(asic) (*ki-enna-b.py*) funktioniert direkt in Thonny und jeder Python Umgebung, ganz ohne Display, RGB-Matrix oder Abhängigkeiten.
+KI-ENNA-B(asic) (*ki-enna-b.py*) funktioniert direkt in Thonny und jeder Python Umgebung, ganz ohne Display, RGB-Matrix oder Abhängigkeiten und demonstriert sowohl vortrainierte Neuronale Netze als auch Forward und Backward Propagation.
 
 # Wie Sie KI-ENNA nutzen und unterstützen können
 KI-ENNA **ermöglicht vornehmlich das hardwarenahe Programmieren mit Einblicken in die Funktionsweise von Neuronalen Netzen** für Schülerinnen und Schüler sowie Studierende.
