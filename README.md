@@ -11,6 +11,9 @@ Prof. Dr. habil. Dennis Klinkhammer
 # Requirements
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
+# Web-Demo (no Requirements)
+Link: ![DEMO]([![DOI](https://joss.theoj.org/papers/10.21105/joss.08039/status.svg)])
+
 # Selected Research Applications
 AI-ANNE is currently being used in the field of computer vision as a supplement to electron microscopes for medical diagnostics.
 An ongoing research project is testing the use of AI-ENNA to detect hazards in the rescue lane of emergency vehicles.
