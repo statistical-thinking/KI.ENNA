@@ -12,7 +12,7 @@ Prof. Dr. habil. Dennis Klinkhammer
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
 # Web-Demo (no Requirements)
-Just follow the link: ![AI-ANNE]([![DOI](https://statistical-thinking.github.io/ai-anne-demo/lab/index.html?path=ai-anne.ipynb)]
+Just follow the link: ![AI-ANNE](https://statistical-thinking.github.io/ai-anne-demo/lab/index.html?path=ai-anne.ipynb)]
 
 # Selected Research Applications
 AI-ANNE is currently being used in the field of computer vision as a supplement to electron microscopes for medical diagnostics.
