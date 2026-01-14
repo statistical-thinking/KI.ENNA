@@ -1,6 +1,6 @@
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.08039/status.svg)](https://doi.org/10.21105/joss.08039)
 
-![KI-ENNA](images/AI-ANNE-2.png)
+![KI-ENNA](images/AI-ANNE.png)
 
 # AI-ANNE
 (A) (N)eural (N)et for (E)xploration
@@ -12,10 +12,10 @@ Prof. Dr. habil. Dennis Klinkhammer
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
 # Web-Demo (no Requirements)
-Just follow the link for an interatice web-demo of AI-ANNE professional: [AI-ANNE](https://statistical-thinking.de/ai-anne-app.html)
-
-Ebenfalls kostenlos verfügbar:
-* [KI-ENNA education](https://statistical-thinking.de/ki-enna-academic)
+Just follow the links and use AI-ANNE for free:
+* [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html)
+* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html)
+* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html)
 
 # Selected Research Applications
 AI-ANNE is currently being used in the field of computer vision as a supplement to electron microscopes for medical diagnostics.
