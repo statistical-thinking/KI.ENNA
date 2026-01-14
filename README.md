@@ -11,15 +11,15 @@ Prof. Dr. habil. Dennis Klinkhammer
 # Requirements
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
-# Web-Demo (no Requirements)
+# Browser-App (no Requirements)
 Just follow the links and use AI-ANNE for free:
-* [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html)
-* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html)
-* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html)
+* [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html) (train and export neural networks onto microcontrollers)
+* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html) (classification examples and computer vision examples))
+* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (provides more insight into weights and biases)
 
 # Selected Research Applications
 AI-ANNE is currently being used in the field of computer vision as a supplement to electron microscopes for medical diagnostics.
-An ongoing research project is testing the use of AI-ENNA to detect hazards in the rescue lane of emergency vehicles.
+An ongoing research project is testing the use of AI-ANNE to detect hazards in the rescue lane of emergency vehicles.
 
 # Materials and Short Tutorial
 The “python” folder contains a data set in CSV format as well as Jupyter notebooks for two neural networks for classification.
@@ -62,9 +62,11 @@ Prof. Dr. habil. Dennis Klinkhammer
 # Voraussetzungen
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
-# Web-Demo (keine Voraussetzungen)
-Einfach dem Link zur interaktiven Web-Demo von KI-ENNA professional folgen: [KI-ENNA](https://statistical-thinking.de/ai-anne-app.html)
-
+# Browser-App (keine Voraussetzungen)
+Einfach den Links folgen:
+* [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html) (train and export neural networks onto microcontrollers)
+* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html) (classification examples and computer vision examples))
+* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (provides more insight into weights and biases)
 
 # Ausgewählte Forschungsanwendungen
 Aktuell kommt KI-ENNA im Bereich Computer Vision als Ergänzung von Elektronenmikoskopen für die medizinische Diagnostik zum Einsatz.
