@@ -14,14 +14,14 @@ TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 # Browser-App (no Requirements)
 Just follow the links and use AI-ANNE for free:
 
-[AI-ANNE professional](https://statistical-thinking.de/ai-anne.html)
-(train and export neural networks onto **microcontrollers** with **full parameter insights**)
+* [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html)
+<br>(train and export neural networks onto **microcontrollers** with **full parameter insights**)
 
-[KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html)
-(train neural networks with **easy examples** and **computer vision**)
+* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html)
+<br>(train neural networks with **easy examples** and **computer vision**)
 
-[KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html)
-(train neural networks with insights into **weights and biases**)
+* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html)
+<br>(train neural networks with insights into **weights and biases**)
 
 # Selected Research Applications
 AI-ANNE is currently being used in the field of computer vision as a supplement to electron microscopes for medical diagnostics.
