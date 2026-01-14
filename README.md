@@ -70,9 +70,15 @@ TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
 # Browser-App (keine Voraussetzungen)
 Einfach den Links folgen:
-* [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html) (trainiere und exportiere neuronale Netzwerke auf **Microcontroller** und **veranschauliche alle Parameter**)
-* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html) (trainiere neuronale Netzwerke mit **einfachen Beispielen** und **Computer Vision**)
-* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (trainiere neuronale Netzwerke mit Einlicken in die **Weights und Biases**)
+
+* [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html)
+<br>(trainiere und exportiere neuronale Netzwerke auf **Microcontroller** und **veranschauliche alle Parameter**)
+
+* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html)
+<br>(trainiere neuronale Netzwerke mit **einfachen Beispielen** und **Computer Vision**)
+
+* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html)
+<br>(trainiere neuronale Netzwerke mit Einlicken in die **Weights und Biases**)
 
 # Ausgewählte Forschungsanwendungen
 Aktuell kommt KI-ENNA im Bereich Computer Vision als Ergänzung von Elektronenmikoskopen für die medizinische Diagnostik zum Einsatz.
