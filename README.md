@@ -11,9 +11,9 @@ Prof. Dr. habil. Dennis Klinkhammer
 # Requirements
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
-# Tutorial
+# Tutorial (no Requirements)
 Learn about the basic concepts of neural networks and how to use AI-ANNE:
-* [KI-ENNA tutorial](https://statistical-thinking.de/ki-enna-tutorial.html) (German)
+* [KI-ENNA tutorial](https://statistical-thinking.de/ki-enna-tutorial.html) (currently only in German)
 
 # Browser-App (no Requirements)
 Just follow the links and use AI-ANNE for free:
@@ -21,10 +21,10 @@ Just follow the links and use AI-ANNE for free:
 * [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html)
 <br>(train and export neural networks onto **microcontrollers** with **full parameter insights**)
 
-* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html) (German)
+* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html) (currently only in German)
 <br>(train neural networks with **easy examples** and **computer vision**)
 
-* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (German)
+* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (currently only in German)
 <br>(train neural networks with insights into **weights and biases**)
 
 # Selected Research Applications
@@ -71,6 +71,10 @@ Prof. Dr. habil. Dennis Klinkhammer
 
 # Voraussetzungen
 TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
+
+# Tutorial (Keine Voraussetzungen)
+Grundlagen neuronaler Netzwerke und deren Training mit KI-ENNA:
+* [KI-ENNA tutorial](https://statistical-thinking.de/ki-enna-tutorial.html)
 
 # Browser-App (keine Voraussetzungen)
 Einfach den Links folgen:
