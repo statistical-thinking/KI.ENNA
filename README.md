@@ -13,7 +13,7 @@ TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
 
 # Tutorial (no Requirements)
 Learn about the basic concepts of neural networks and how to use AI-ANNE:
-* [KI-ENNA tutorial](https://statistical-thinking.de/ki-enna-tutorial.html) (currently only in German)
+* [AI-ANNE tutorial](https://statistical-thinking.de/ai-anne-tutorial.html)
 
 # Browser-App (no Requirements)
 Just follow the links and use AI-ANNE for free:
