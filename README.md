@@ -34,7 +34,7 @@ An ongoing research project is testing the use of AI-ANNE to detect hazards in t
 # Materials and Short Tutorial
 The “micropython” folder contains the **code for initializing the microcontroller** (*main.py*).
 This is **copied to the microcontroller** via Thonny and the microcontroller is then restarted.
-With the [AI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html), neural networks can be trained directly in the browser and exported to a microcontroller.
+With the [AI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html), neural networks can be **trained directly in the browser** and exported to a microcontroller.
 'ReLU', 'Leaky ReLU', 'Sigmoid' and 'Tanh' are available as activation functions.
 If necessary, other classification data can also be used for training.
 AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environment, even without display, RGB matrix or dependencies and demonstrates pretrained neural networks as well as forward and backward propagation on a microcontroller.
@@ -90,7 +90,7 @@ In einem laufenden Forschungsvorhaben wird der Einsatz von KI-ENNA zur Detektion
 # Materialien und Kurzanleitung
 Im Ordner "micropython" befindet sich der **Code zur Initialisierung des Microcontrollers** (*main.py*).
 Dieser wird via Thonny **auf den Microcontroller kopiert** und dieser anschließend neu gestartet.
-Mit der [KI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html) können neuronale Netze direkt im Browser trainiert und auf einen Microcontroller exportiert werden.
+Mit der [KI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html) können neuronale Netze **direkt im Browser trainiert** und auf einen Microcontroller exportiert werden.
 Dabei stehen 'ReLU', 'Leaky ReLU', 'Sigmoid' und 'Tanh' als Aktivierungsfunktionen zur Verfügung.
 Bei Bedarf können auch andere Klassifikationsdaten für das Training verwendet werden.
 KI-ENNA-B(asic) (*ki-enna-b.py*) funktioniert direkt in Thonny und jeder Python Umgebung, ganz ohne Display, RGB-Matrix oder Abhängigkeiten und demonstriert sowohl vortrainierte Neuronale Netze als auch Forward und Backward Propagation direkt auf dem Microcontroller.
