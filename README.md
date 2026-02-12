@@ -47,7 +47,6 @@ AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environ
 AI-ANNE primarily **enables hardware-related programming with insights into the functioning of neural networks** for pupils and students.
 For this purpose, the architecture of neural networks and underlying functions (matrix multiplication, etc.) including the transfer of weights and biases are provided in MicroPython.
 Teachers can use the examples provided or develop their own examples and make them available here voluntarily.
-This only requires a Jupyter notebook with the pre-trained neural network in Python and its counterpart in MicroPython.
 Improvements to the AI-ANNE code are also very welcome. Just get in touch with me here on GitHub :-)
 
 # Application Example
@@ -93,22 +92,17 @@ Aktuell kommt KI-ENNA im Bereich Computer Vision als Ergänzung von Elektronenmi
 In einem laufenden Forschungsvorhaben wird der Einsatz von KI-ENNA zur Detektion von Gefahren auf der Rettungsgasse von Rettungsfahrzeugen erprobt. 
 
 # Materialien und Kurzanleitung
-Im Ordner "python" befindet sich jeweils ein Datensatz im CSV-Format sowie Jupyter Notebooks für zwei Neuronale Netze zur Klassifikation.
-Die Datensätze wurden jeweils als Grundlage für das Training der Neuronalen Netze mit TensorFlow in Python verwendet.
-Die Parameter der Neuronalen Netze wurden daraufhin als TXT-Datei extrahiert.
 Im Ordner "micropython" befindet sich der **Code zur Initialisierung des Microcontrollers** (*main.py*).
 Dieser wird via Thonny **auf den Microcontroller kopiert** und dieser anschließend neu gestartet.
-Als Beispieldatensätze stehen der IRIS Datensatz und der DIABETES Datensatz zur Verfügung.
-'ReLU', 'Leaky ReLU', 'Sigmoid', 'Softmax' und 'Tanh' stehen als Aktivierungsfunktionen zur Verfügung.
-Bei Bedarf können andere Klassifikationsdaten für das Training in Python verwendet werden.
-Bei anderen Datensätzen sind die Parameter der Neuronalen Netze entsprechend anzupassen.
+Mit der [KI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html) können neuronale Netze direkt im Browser trainiert und auf einen Microcontroller exportiert werden.
+Dabei stehen 'ReLU', 'Leaky ReLU', 'Sigmoid' und 'Tanh' als Aktivierungsfunktionen zur Verfügung.
+Bei Bedarf können auch andere Klassifikationsdaten für das Training verwendet werden.
 KI-ENNA-B(asic) (*ki-enna-b.py*) funktioniert direkt in Thonny und jeder Python Umgebung, ganz ohne Display, RGB-Matrix oder Abhängigkeiten und demonstriert sowohl vortrainierte Neuronale Netze als auch Forward und Backward Propagation direkt auf dem Microcontroller.
 
 # Wie Sie KI-ENNA nutzen und unterstützen können
 KI-ENNA **ermöglicht vornehmlich das hardwarenahe Programmieren mit Einblicken in die Funktionsweise von Neuronalen Netzen** für Schülerinnen und Schüler sowie Studierende.
 Hierfür wird die Architektur Neuronaler Netze sowie zugrundeliegende Funktionen (Matrixmultiplkation, etc.) einschließlich der Transfer von Weights und Biases in MicroPython vorgegeben.
 Lehrerinnen und Lehrer können auf die vorgegebenen Beispiele zurückgreifen und eigene Beispiele entwickeln und freiwillig hier zur Verfügung stellen.
-Dies erfordert lediglich ein Jupyter Notebook mit dem vortrainierten Neuronalen Netz in Python sowie dessen Abbild in MicroPython.
 Auch Verbesserungen am Code von KI-ENNA sind herzlich willkommen. Melden Sie sich einfach hier auf GitHub bei mir :-)
 
 # Anwendungsbeispiel
