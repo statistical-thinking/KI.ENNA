@@ -13,7 +13,7 @@ No requirements for operation in the browser, [THONNY](https://thonny.org/) for 
 
 # Tutorial (no Requirements)
 Learn about the basic concepts of neural networks and how to use AI-ANNE:
-* [AI-ANNE tutorial](https://statistical-thinking.de/ai-anne-tutorial.html) (ENG, FRE, SPA, GER, RUS, CHI)
+* [AI-ANNE tutorial](https://statistical-thinking.de/ai-anne-tutorial.html) (ENG, FRE, SPA, GER, RUS, CH)
 
 # Browser-App (no Requirements)
 Just follow the links and use AI-ANNE for free:
@@ -68,7 +68,7 @@ Keine Voraussetzungen für den Betrieb direkt im Browser, [Thonny](https://thonn
 
 # Tutorial (Keine Voraussetzungen)
 Grundlagen neuronaler Netzwerke und deren Training mit KI-ENNA:
-* [KI-ENNA tutorial](https://statistical-thinking.de/ki-enna-tutorial.html) (ENG, FRA, SPA, DEU, RUS, CHI)
+* [KI-ENNA tutorial](https://statistical-thinking.de/ki-enna-tutorial.html) (ENG, FRA, SPA, DEU, RUS, CH)
 
 # Browser-App (keine Voraussetzungen)
 Einfach den Links folgen:
