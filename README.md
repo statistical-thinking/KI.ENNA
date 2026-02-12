@@ -28,15 +28,14 @@ Just follow the links and use AI-ANNE for free:
 <br>(train neural networks with insights into **weights and biases**)
 
 # Selected Research Applications
-AI-ANNE is currently being used in the field of computer vision as a supplement to electron microscopes for medical diagnostics.
-An ongoing research project is testing the use of AI-ANNE to detect hazards in the rescue lane of emergency vehicles.
+Although AI-ANNE is primarily a teaching tool, it can also be used for real-time evaluation of sensor data in production processes or social media data, for example.
 
 # Materials and Short Tutorial
 With the [AI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html), neural networks can be **trained directly in the browser** and exported to a microcontroller.
 'ReLU', 'Leaky ReLU', 'Sigmoid' and 'Tanh' are available as activation functions.
 If necessary, other classification data can also be used for training.
 The “micropython” folder contains the **code for initializing the microcontroller** (*main.py*) and indicates where to copy & paste the parameters.
-The code is **copied to the microcontroller** via [Thonna](https://thonny.org/) and the microcontroller is then restarted - that's it!
+The code is **copied to the microcontroller** via [Thonny](https://thonny.org/) and the microcontroller is then restarted - that's it!
 AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environment, even without display, RGB matrix or dependencies and demonstrates pretrained neural networks as well as forward and backward propagation on a microcontroller.
 
 # How to Use and Support AI-ANNE
@@ -84,8 +83,7 @@ Einfach den Links folgen:
 <br>(trainiere neuronale Netzwerke mit Einlicken in die **Weights und Biases**)
 
 # Ausgewählte Forschungsanwendungen
-Aktuell kommt KI-ENNA im Bereich Computer Vision als Ergänzung von Elektronenmikoskopen für die medizinische Diagnostik zum Einsatz.
-In einem laufenden Forschungsvorhaben wird der Einsatz von KI-ENNA zur Detektion von Gefahren auf der Rettungsgasse von Rettungsfahrzeugen erprobt. 
+Obwohl KI-ENNA vornehmlich ein didaktisches Tool ist, kann es bspw. für die Echtzeitauswertung von Sensordaten in Produktionsprozessen oder Social Media Daten verwendet werden.
 
 # Materialien und Kurzanleitung
 Mit der [KI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html) können neuronale Netze **direkt im Browser trainiert** und auf einen Microcontroller exportiert werden.
