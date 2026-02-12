@@ -32,15 +32,11 @@ AI-ANNE is currently being used in the field of computer vision as a supplement 
 An ongoing research project is testing the use of AI-ANNE to detect hazards in the rescue lane of emergency vehicles.
 
 # Materials and Short Tutorial
-The “python” folder contains a data set in CSV format as well as Jupyter notebooks for two neural networks for classification.
-The data sets were each used as the basis for training the neural networks with TensorFlow in Python.
-The parameters of the neural networks were then extracted as a TXT file.
 The “micropython” folder contains the **code for initializing the microcontroller** (*main.py*).
 This is **copied to the microcontroller** via Thonny and the microcontroller is then restarted.
-The IRIS data set and the DIABETES data set are available as example data sets.
-'ReLU', 'Leaky ReLU', 'Sigmoid', 'Softmax' and 'Tanh' are available as activation functions.
-If required, other classification data can be used for training in Python.
-For other data sets, the parameters of the neural networks must be adjusted accordingly.
+With the [AI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html), neural networks can be trained directly in the browser and exported to a microcontroller.
+'ReLU', 'Leaky ReLU', 'Sigmoid' and 'Tanh' are available as activation functions.
+If necessary, other classification data can also be used for training.
 AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environment, even without display, RGB matrix or dependencies and demonstrates pretrained neural networks as well as forward and backward propagation on a microcontroller.
 
 # How to Use and Support AI-ANNE
