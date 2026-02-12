@@ -9,11 +9,11 @@
 Prof. Dr. habil. Dennis Klinkhammer
 
 # Requirements
-TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
+No requirements for operation in the browser, [THONNY](https://thonny.org/) for the use on a microcontroller
 
 # Tutorial (no Requirements)
 Learn about the basic concepts of neural networks and how to use AI-ANNE:
-* [AI-ANNE tutorial](https://statistical-thinking.de/ai-anne-tutorial.html)
+* [AI-ANNE tutorial](https://statistical-thinking.de/ai-anne-tutorial.html) (ENG, FRE, SPA, GER, RUS, CHI)
 
 # Browser-App (no Requirements)
 Just follow the links and use AI-ANNE for free:
@@ -32,11 +32,11 @@ AI-ANNE is currently being used in the field of computer vision as a supplement 
 An ongoing research project is testing the use of AI-ANNE to detect hazards in the rescue lane of emergency vehicles.
 
 # Materials and Short Tutorial
-The “micropython” folder contains the **code for initializing the microcontroller** (*main.py*).
-This is **copied to the microcontroller** via Thonny and the microcontroller is then restarted.
 With the [AI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html), neural networks can be **trained directly in the browser** and exported to a microcontroller.
 'ReLU', 'Leaky ReLU', 'Sigmoid' and 'Tanh' are available as activation functions.
 If necessary, other classification data can also be used for training.
+The “micropython” folder contains the **code for initializing the microcontroller** (*main.py*) and indicates where to copy & paste the parameters.
+The code is **copied to the microcontroller** via [Thonna](https://thonny.org/) and the microcontroller is then restarted - that's it!
 AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environment, even without display, RGB matrix or dependencies and demonstrates pretrained neural networks as well as forward and backward propagation on a microcontroller.
 
 # How to Use and Support AI-ANNE
@@ -65,11 +65,11 @@ Special thanks **@tonygod2** from instructables.com for his tutorials on getting
 Prof. Dr. habil. Dennis Klinkhammer
 
 # Voraussetzungen
-TensorFlow in Python (Anaconda Cloud); MicroPython (Thonny)
+Keine Voraussetzungen für den Betrieb direkt im Browser, [Thonny](https://thonny.org/) für den Betrieb auf einem Microcontroller
 
 # Tutorial (Keine Voraussetzungen)
 Grundlagen neuronaler Netzwerke und deren Training mit KI-ENNA:
-* [KI-ENNA tutorial](https://statistical-thinking.de/ki-enna-tutorial.html)
+* [KI-ENNA tutorial](https://statistical-thinking.de/ki-enna-tutorial.html) (ENG, FRA, SPA, DEU, RUS, CHI)
 
 # Browser-App (keine Voraussetzungen)
 Einfach den Links folgen:
@@ -88,11 +88,11 @@ Aktuell kommt KI-ENNA im Bereich Computer Vision als Ergänzung von Elektronenmi
 In einem laufenden Forschungsvorhaben wird der Einsatz von KI-ENNA zur Detektion von Gefahren auf der Rettungsgasse von Rettungsfahrzeugen erprobt. 
 
 # Materialien und Kurzanleitung
-Im Ordner "micropython" befindet sich der **Code zur Initialisierung des Microcontrollers** (*main.py*).
-Dieser wird via Thonny **auf den Microcontroller kopiert** und dieser anschließend neu gestartet.
 Mit der [KI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html) können neuronale Netze **direkt im Browser trainiert** und auf einen Microcontroller exportiert werden.
 Dabei stehen 'ReLU', 'Leaky ReLU', 'Sigmoid' und 'Tanh' als Aktivierungsfunktionen zur Verfügung.
 Bei Bedarf können auch andere Klassifikationsdaten für das Training verwendet werden.
+Im Ordner "micropython" befindet sich der **Code zur Initialisierung des Microcontrollers** (*main.py*) und wo die Parameter eingefügt werden können.
+Dieser wird via [THONNY](https://thonny.org/) **auf den Microcontroller kopiert** und dieser anschließend neu gestartet - das ist es auch schon!
 KI-ENNA-B(asic) (*ki-enna-b.py*) funktioniert direkt in Thonny und jeder Python Umgebung, ganz ohne Display, RGB-Matrix oder Abhängigkeiten und demonstriert sowohl vortrainierte Neuronale Netze als auch Forward und Backward Propagation direkt auf dem Microcontroller.
 
 # Wie Sie KI-ENNA nutzen und unterstützen können
