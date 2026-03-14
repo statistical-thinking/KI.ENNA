@@ -27,7 +27,7 @@ Just follow the links and use AI-ANNE for free:
 * [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (currently only in German)
 <br>(train neural networks with insights into **weights and biases**)
 
-Just follow the link to train a small language model with AI-ANNE and a **simple transformer** for free:
+Just follow the link to train a **tiny language model** with AI-ANNE and a **simple transformer** for free:
 
 * [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html) (currently only in German)
 <br>(train a neural networks with simple transformer architecture the meaning of **words** in **sentences**)
@@ -76,7 +76,7 @@ Grundlagen neuronaler Netzwerke und deren Training mit KI-ENNA:
 * [KI-ENNA tutorial](https://statistical-thinking.de/ki-enna-tutorial.html) (ENG, FRA, SPA, DEU, RUS, CH)
 
 # Browser-App (keine Voraussetzungen)
-Einfach den Links folgen:
+Einfach den Links folgen und KI-ENNA kostenlos verwenden:
 
 * [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html)
 <br>(trainiere und exportiere neuronale Netzwerke auf **Microcontroller** und **veranschauliche alle Parameter**)
@@ -86,6 +86,11 @@ Einfach den Links folgen:
 
 * [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html)
 <br>(trainiere neuronale Netzwerke mit Einlicken in die **Weights und Biases**)
+
+Einfach dem Link folgen, um ein **winziges Sprachmodell** mit KI-ENNA und einem **einfachen Transformer** kostenlos zu trainieren:
+
+* [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html)
+<br>(traine ein neuronales Netzwerk mit einacher Transformer Architektur die Bedeutung von **Wörtern** in **Sätzen** zu erkennen)
 
 # Ausgewählte Forschungsanwendungen
 Obwohl KI-ENNA vornehmlich ein didaktisches Tool ist, kann es bspw. für die Echtzeitauswertung von Sensordaten in Produktionsprozessen oder Social Media Daten verwendet werden.
