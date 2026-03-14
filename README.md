@@ -27,7 +27,7 @@ Just follow the links and use AI-ANNE for free:
 * [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (currently only in German)
 <br>(train neural networks with insights into **weights and biases**)
 
-Bonus: Train a **tiny language model** with AI-ANNE and a **simple transformer**:
+**Bonus:** Train a **tiny language model** with AI-ANNE and a **simple transformer**:
 
 * [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html) (currently only in German)
 <br>(train a neural networks the meaning of **words** in **sentences**)
@@ -87,7 +87,7 @@ Einfach den Links folgen und KI-ENNA kostenlos verwenden:
 * [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html)
 <br>(trainiere neuronale Netzwerke mit Einlicken in die **Weights und Biases**)
 
-Bonus: Trainiere ein **winziges Sprachmodell** mit KI-ENNA und einem **einfachen Transformer**:
+**Bonus:** Trainiere ein **winziges Sprachmodell** mit KI-ENNA und einem **einfachen Transformer**:
 
 * [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html)
 <br>(bringe einem neuronalen Netzwerk die Bedeutung von **Wörtern** in **Sätzen** bei)
