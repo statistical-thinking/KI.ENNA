@@ -30,7 +30,7 @@ Just follow the links and use AI-ANNE for free:
 **Bonus:** Train a **tiny language model** with AI-ANNE and a **simple transformer**:
 
 * [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html) (currently only in German)
-<br>(train a neural networks the meaning of **words** in **sentences**)
+<br>(train a neural network the meaning of **words** in **sentences**)
 
 # Selected Research Applications
 Although AI-ANNE is primarily a teaching tool, it can also be used for real-time evaluation of sensor data in production processes or social media data, for example.
