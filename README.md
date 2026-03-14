@@ -27,10 +27,10 @@ Just follow the links and use AI-ANNE for free:
 * [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (currently only in German)
 <br>(train neural networks with insights into **weights and biases**)
 
-Just follow the link to train a **tiny language model** with AI-ANNE and a **simple transformer** for free:
+Bonus: Train a **tiny language model** with AI-ANNE and a **simple transformer** for free:
 
 * [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html) (currently only in German)
-<br>(train a neural networks with simple transformer architecture the meaning of **words** in **sentences**)
+<br>(train a neural networks with simple transformer the meaning of **words** in **sentences**)
 
 # Selected Research Applications
 Although AI-ANNE is primarily a teaching tool, it can also be used for real-time evaluation of sensor data in production processes or social media data, for example.
@@ -87,10 +87,10 @@ Einfach den Links folgen und KI-ENNA kostenlos verwenden:
 * [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html)
 <br>(trainiere neuronale Netzwerke mit Einlicken in die **Weights und Biases**)
 
-Einfach dem Link folgen, um ein **winziges Sprachmodell** mit KI-ENNA und einem **einfachen Transformer** kostenlos zu trainieren:
+Bonus: Trainiere ein **winziges Sprachmodell** mit KI-ENNA und einem **einfachen Transformer** kostenlos:
 
 * [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html)
-<br>(traine ein neuronales Netzwerk mit einacher Transformer Architektur die Bedeutung von **Wörtern** in **Sätzen** zu erkennen)
+<br>(traine ein neuronales Netzwerk mit einachem Transformer die Bedeutung von **Wörtern** in **Sätzen** zu erkennen)
 
 # Ausgewählte Forschungsanwendungen
 Obwohl KI-ENNA vornehmlich ein didaktisches Tool ist, kann es bspw. für die Echtzeitauswertung von Sensordaten in Produktionsprozessen oder Social Media Daten verwendet werden.
