@@ -30,9 +30,9 @@ Just follow the links and use AI-ANNE for free:
 **Bonus:** Train a **tiny language model** with AI-ANNE and a **simple transformer**:
 
 * [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html) (currently only in German)
-<br>(train a neural network the meaning of **words** in **sentences**)
+<br>(train a neural network to predict the next **word** in a **sentence**)
 
-* [KI-ENNA sentence transformer](https://statistical-thinking.de/ki-enna-sentence-transformer.html) (currently only in German)
+* [KI-ENNA generative transformer](https://statistical-thinking.de/ki-enna-generative-transformer.html) (currently only in German)
 <br>(let a neural network process the meaning of **subsequent words** within a **sentence**)
 
 # Selected Research Applications
@@ -93,9 +93,9 @@ Einfach den Links folgen und KI-ENNA kostenlos verwenden:
 **Bonus:** Trainiere ein **winziges Sprachmodell** mit KI-ENNA und einem **einfachen Transformer**:
 
 * [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html)
-<br>(bringe einem neuronalen Netzwerk die Bedeutung von **Wörtern** in **Sätzen** bei)
+<br>(bringe einem neuronalen Netzwerk bei, das nächste **Wort** in einem **Sätzen** vorherzusagen)
 
-* [KI-ENNA sentence transformer](https://statistical-thinking.de/ki-enna-sentence-transformer.html)
+* [KI-ENNA generative transformer](https://statistical-thinking.de/ki-enna-generative-transformer.html)
 <br>(lass ein neuronales Netzwerk die Bedeutung von **aufeinanderfolgenden Wörtern** in einem **Satz** verarbeiten)
 
 # Ausgewählte Forschungsanwendungen
