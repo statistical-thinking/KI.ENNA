@@ -35,6 +35,9 @@ Just follow the links and use AI-ANNE for free:
 * [KI-ENNA generative transformer](https://statistical-thinking.de/ki-enna-generative-transformer.html) (currently only in German)
 <br>(let a neural network process the meaning of **subsequent words** within a **sentence**)
 
+* [KI-ENNA mini](https://statistical-thinking.de/ki-enna-mini.html) (currently only in German)
+<br>(a **super easy introduction** to neural networks for preschoolers)
+
 # Selected Research Applications
 Although AI-ANNE is primarily a teaching tool, it can also be used for real-time evaluation of sensor data in production processes or social media data, for example.
 
@@ -89,6 +92,9 @@ Einfach den Links folgen und KI-ENNA kostenlos verwenden:
 
 * [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html)
 <br>(trainiere neuronale Netzwerke mit Einlicken in die **Weights und Biases**)
+
+* [KI-ENNA mini](https://statistical-thinking.de/ki-enna-mini.html)
+<br>(der **leichteste Einstieg** in neuronale Netze für die Vorschule)
 
 **Bonus:** Trainiere ein **winziges Sprachmodell** mit KI-ENNA und einem **einfachen Transformer**:
 
