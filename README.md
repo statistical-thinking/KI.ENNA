@@ -1,68 +1,4 @@
-[![DOI](https://joss.theoj.org/papers/10.21105/joss.08039/status.svg)](https://doi.org/10.21105/joss.08039)
-
-![KI-ENNA](images/AI-ANNE-2.png)
-
-# AI-ANNE
-(A) (N)eural (N)et for (E)xploration
-
-# Author
-Prof. Dr. habil. Dennis Klinkhammer
-
-# Requirements
-No requirements for operation in the browser, [THONNY](https://thonny.org/) for the use on a microcontroller
-
-# Tutorial (no Requirements)
-Learn about the basic concepts of neural networks and how to use AI-ANNE:
-* [AI-ANNE tutorial](https://statistical-thinking.de/ai-anne-tutorial.html) (ENG, FRE, SPA, GER, RUS, CH)
-
-# Browser-App (no Requirements)
-Just follow the links and use AI-ANNE for free:
-
-* [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html)
-<br>(train and export neural networks onto **microcontrollers** with **full parameter insights**)
-
-* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html) (currently only in German)
-<br>(train neural networks with **easy examples** and **computer vision**)
-
-* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (currently only in German)
-<br>(train neural networks with insights into **weights and biases**)
-
-* [KI-ENNA mini](https://statistical-thinking.de/ki-enna-mini.html) (currently only in German)
-<br>(a **super easy introduction** to neural networks for preschoolers)
-
-**Bonus:** Train a **tiny language model** with AI-ANNE and a **simple transformer**:
-
-* [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html) (currently only in German)
-<br>(train a neural network to predict the next **word** in a **sentence**)
-
-* [KI-ENNA generative transformer](https://statistical-thinking.de/ki-enna-generative-transformer.html) (currently only in German)
-<br>(let a neural network process the meaning of **subsequent words** within a **sentence**)
-
-# Selected Research Applications
-Although AI-ANNE is primarily a teaching tool, it can also be used for real-time evaluation of sensor data in production processes or social media data, for example.
-
-# Materials and Short Tutorial
-With the [AI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html), neural networks can be **trained directly in the browser** and exported to a microcontroller.
-'ReLU', 'Leaky ReLU', 'Sigmoid' and 'Tanh' are available as activation functions.
-If necessary, other classification data can also be used for training.
-The “micropython” folder contains the **code for initializing the microcontroller** (*main.py*) and indicates where to copy & paste the parameters.
-The code is **copied to the microcontroller** via [Thonny](https://thonny.org/) and the microcontroller is then restarted - that's it!
-AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environment, even without display, RGB matrix or dependencies and demonstrates pretrained neural networks as well as forward and backward propagation on a microcontroller.
-
-# How to Use and Support AI-ANNE
-AI-ANNE primarily **enables hardware-related programming with insights into the functioning of neural networks** for pupils and students.
-For this purpose, the architecture of neural networks and underlying functions (matrix multiplication, etc.) including the transfer of weights and biases are provided in MicroPython.
-Teachers can use the examples provided or develop their own examples and make them available here voluntarily.
-Improvements to the AI-ANNE code are also very welcome. Just get in touch with me here on GitHub :-)
-
-# Application Example
-This is an example of how AI-ANNE can be used as an interactive learning tool in the classroom:<p>
-![KI-ENNA](images/AI-ANNE-DEMO.gif)
-
-# License & Acknowledgment
-The current version 2.0.1 of AI-ANNE is available under **MIT License**.
-Version 1.0 from 2021 was available under the German Free Software License.
-Special thanks **@tonygod2** from instructables.com for his tutorials on getting the display up and running.
+![KI-ENNA](images/ki-enna-logo.png)
 
 ------------------------------------------------------------------------------------------
 
@@ -131,3 +67,69 @@ Version 1.0 von 2021 war noch unter der German Free Software License verfgügbar
 Besonderer Dank gilt **@tonygod2** von instructables.com für seine hilfreichen Display-Tutorials.
 
 ------------------------------------------------------------------------------------------
+
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.08039/status.svg)](https://doi.org/10.21105/joss.08039)
+
+![KI-ENNA](images/AI-ANNE-2.png)
+
+# AI-ANNE
+(A) (N)eural (N)et for (E)xploration
+
+# Author
+Prof. Dr. habil. Dennis Klinkhammer
+
+# Requirements
+No requirements for operation in the browser, [THONNY](https://thonny.org/) for the use on a microcontroller
+
+# Tutorial (no Requirements)
+Learn about the basic concepts of neural networks and how to use AI-ANNE:
+* [AI-ANNE tutorial](https://statistical-thinking.de/ai-anne-tutorial.html) (ENG, FRE, SPA, GER, RUS, CH)
+
+# Browser-App (no Requirements)
+Just follow the links and use AI-ANNE for free:
+
+* [AI-ANNE professional](https://statistical-thinking.de/ai-anne.html)
+<br>(train and export neural networks onto **microcontrollers** with **full parameter insights**)
+
+* [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html) (currently only in German)
+<br>(train neural networks with **easy examples** and **computer vision**)
+
+* [KI-ENNA academic](https://statistical-thinking.de/ki-enna-academic.html) (currently only in German)
+<br>(train neural networks with insights into **weights and biases**)
+
+* [KI-ENNA mini](https://statistical-thinking.de/ki-enna-mini.html) (currently only in German)
+<br>(a **super easy introduction** to neural networks for preschoolers)
+
+**Bonus:** Train a **tiny language model** with AI-ANNE and a **simple transformer**:
+
+* [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html) (currently only in German)
+<br>(train a neural network to predict the next **word** in a **sentence**)
+
+* [KI-ENNA generative transformer](https://statistical-thinking.de/ki-enna-generative-transformer.html) (currently only in German)
+<br>(let a neural network process the meaning of **subsequent words** within a **sentence**)
+
+# Selected Research Applications
+Although AI-ANNE is primarily a teaching tool, it can also be used for real-time evaluation of sensor data in production processes or social media data, for example.
+
+# Materials and Short Tutorial
+With the [AI-ENNA-APP](https://statistical-thinking.de/ai-anne-app.html), neural networks can be **trained directly in the browser** and exported to a microcontroller.
+'ReLU', 'Leaky ReLU', 'Sigmoid' and 'Tanh' are available as activation functions.
+If necessary, other classification data can also be used for training.
+The “micropython” folder contains the **code for initializing the microcontroller** (*main.py*) and indicates where to copy & paste the parameters.
+The code is **copied to the microcontroller** via [Thonny](https://thonny.org/) and the microcontroller is then restarted - that's it!
+AI-ANNE-B(asic) (*ai-anne-b.py*) works directly in Thonny and any Python environment, even without display, RGB matrix or dependencies and demonstrates pretrained neural networks as well as forward and backward propagation on a microcontroller.
+
+# How to Use and Support AI-ANNE
+AI-ANNE primarily **enables hardware-related programming with insights into the functioning of neural networks** for pupils and students.
+For this purpose, the architecture of neural networks and underlying functions (matrix multiplication, etc.) including the transfer of weights and biases are provided in MicroPython.
+Teachers can use the examples provided or develop their own examples and make them available here voluntarily.
+Improvements to the AI-ANNE code are also very welcome. Just get in touch with me here on GitHub :-)
+
+# Application Example
+This is an example of how AI-ANNE can be used as an interactive learning tool in the classroom:<p>
+![KI-ENNA](images/AI-ANNE-DEMO.gif)
+
+# License & Acknowledgment
+The current version 2.0.1 of AI-ANNE is available under **MIT License**.
+Version 1.0 from 2021 was available under the German Free Software License.
+Special thanks **@tonygod2** from instructables.com for his tutorials on getting the display up and running.
