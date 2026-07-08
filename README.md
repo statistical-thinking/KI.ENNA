@@ -1,4 +1,4 @@
-<p><img align="right" width="250" height="250" src="images/ki-enna-logo.png"></p>
+<img align="right" width="250" height="250" src="images/ki-enna-logo.png"><br>
 
 ------------------------------------------------------------------------------------------
 
