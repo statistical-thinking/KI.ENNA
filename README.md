@@ -1,4 +1,5 @@
-<img align="right" width="100" height="100" src="images/ki-enna-logo.png">
+<p><img align="right" width="250" height="250" src="images/ki-enna-logo.png"></p>
+
 ------------------------------------------------------------------------------------------
 
 ![KI-ENNA](images/KI-ENNA-2.png)
