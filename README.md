@@ -1,6 +1,7 @@
 <p align="center">
-    <img width="250" src="images7Ki-enna-logo.png" alt="KI-ENNA LOGO">
+    <img width="250" src="images/ki-enna-logo.png" alt="KI-ENNA LOGO">
 </p>
+
 ------------------------------------------------------------------------------------------
 
 ![KI-ENNA](images/KI-ENNA-2.png)
