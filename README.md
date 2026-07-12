@@ -107,7 +107,7 @@ Just follow the links and use AI-ANNE for free:
 * [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html) (currently only in German)
 <br>(train a neural network to predict the next **word** in a **sentence**)
 
-* [KI-ENNA generative transformer](https://statistical-thinking.de/ki-enna-generative-transformer.html) (currently only in German)
+* [AI-ANNE generative transformer](https://statistical-thinking.de/ai-anne-generative-transformer.html)
 <br>(let a neural network process the meaning of **subsequent words** within a **sentence**)
 
 # Selected Research Applications
