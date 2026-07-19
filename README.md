@@ -28,10 +28,10 @@ Einfach den Links folgen und KI-ENNA kostenlos verwenden:
 * [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html)
 <br>(trainiere neuronale Netzwerke mit **einfachen Beispielen** und **Computer Vision**)
 
+**Bonus:**
+
 * [KI-ENNA mini](https://statistical-thinking.de/ki-enna-mini.html)
 <br>(der **leichteste Einstieg** in neuronale Netze für junge KI Einsteiger:Innen)
-
-**Bonus:** Trainiere ein **winziges Sprachmodell** mit KI-ENNA und einem **einfachen Transformer**:
 
 * [KI-ENNA generative transformer](https://statistical-thinking.de/ki-enna-generative-transformer.html)
 <br>(lass ein neuronales Netzwerk die Bedeutung von **aufeinanderfolgenden Wörtern** in einem **Satz** verarbeiten)
@@ -90,10 +90,10 @@ Just follow the links and use AI-ANNE for free:
 * [KI-ENNA education](https://statistical-thinking.de/ki-enna-edu.html) (currently only in German)
 <br>(train neural networks with **easy examples** and **computer vision**)
 
+**Bonus:**
+
 * [KI-ENNA mini](https://statistical-thinking.de/ki-enna-mini.html) (currently only in German)
 <br>(a **super easy introduction** to neural networks for young AI beginners)
-
-**Bonus:** Train a **tiny language model** with AI-ANNE and a **simple transformer**:
 
 * [AI-ANNE generative transformer](https://statistical-thinking.de/ai-anne-generative-transformer.html)
 <br>(let a neural network process the meaning of **subsequent words** within a **sentence**)
