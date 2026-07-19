@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="33%" src="images/ki-enna-logo.png" alt="KI-ENNA LOGO">
+    <img width="33%" src="images/KI-ENNA-LOGO.png" alt="KI-ENNA LOGO">
 </p>
 
 ------------------------------------------------------------------------------------------
@@ -32,9 +32,6 @@ Einfach den Links folgen und KI-ENNA kostenlos verwenden:
 <br>(der **leichteste Einstieg** in neuronale Netze für junge KI Einsteiger:Innen)
 
 **Bonus:** Trainiere ein **winziges Sprachmodell** mit KI-ENNA und einem **einfachen Transformer**:
-
-* [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html)
-<br>(bringe einem neuronalen Netzwerk bei, das nächste **Wort** in einem **Sätzen** vorherzusagen)
 
 * [KI-ENNA generative transformer](https://statistical-thinking.de/ki-enna-generative-transformer.html)
 <br>(lass ein neuronales Netzwerk die Bedeutung von **aufeinanderfolgenden Wörtern** in einem **Satz** verarbeiten)
@@ -97,9 +94,6 @@ Just follow the links and use AI-ANNE for free:
 <br>(a **super easy introduction** to neural networks for young AI beginners)
 
 **Bonus:** Train a **tiny language model** with AI-ANNE and a **simple transformer**:
-
-* [KI-ENNA transformer](https://statistical-thinking.de/ki-enna-transformer.html) (currently only in German)
-<br>(train a neural network to predict the next **word** in a **sentence**)
 
 * [AI-ANNE generative transformer](https://statistical-thinking.de/ai-anne-generative-transformer.html)
 <br>(let a neural network process the meaning of **subsequent words** within a **sentence**)
