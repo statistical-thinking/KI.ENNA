@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="33%" src="images/KI-ENNA-LOGO.png" alt="KI-ENNA LOGO">
+    <img width="40%" src="images/KI-ENNA-LOGO.png" alt="KI-ENNA LOGO">
 </p>
 
 ------------------------------------------------------------------------------------------
