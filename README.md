@@ -66,6 +66,14 @@ Besonderer Dank gilt **@tonygod2** von instructables.com für seine hilfreichen 
 
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.08039/status.svg)](https://doi.org/10.21105/joss.08039)
 
+------------------------------------------------------------------------------------------
+
+<p align="center">
+    <img width="40%" src="images/AI-ANNE-LOGO.png" alt="KI-ENNA LOGO">
+</p>
+
+------------------------------------------------------------------------------------------
+
 ![KI-ENNA](images/AI-ANNE-2.png)
 
 # AI-ANNE
@@ -123,3 +131,7 @@ This is an example of how AI-ANNE can be used as an interactive learning tool in
 The current version 2.0.1 of AI-ANNE is available under **MIT License**.
 Version 1.0 from 2021 was available under the German Free Software License.
 Special thanks **@tonygod2** from instructables.com for his tutorials on getting the display up and running.
+
+------------------------------------------------------------------------------------------
+
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.08039/status.svg)](https://doi.org/10.21105/joss.08039)
